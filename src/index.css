@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Pixeboy';
+  src: url('/assets/fonts/pixeboy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'HomeVideoBold';
+  src: url('/assets/fonts/homevideobold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-pixel {
+  font-family: 'Pixeboy', monospace, system-ui;
+}
+
+.font-homevideo {
+  font-family: 'HomeVideoBold', monospace, system-ui;
+}
+

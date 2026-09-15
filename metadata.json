@@ -1,0 +1,6 @@
+{
+  "name": "Super Ultima",
+  "description": "Classic Top Trumps (Υπερατού) airplane card battle game featuring the complete 32-card deck, stat duels, Super Ultima trump rules, card browser, and multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
